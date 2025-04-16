@@ -129,7 +129,7 @@ const gradesData = {
     "Diego": [
         { trimestre: "1er Trim.", nota: 78, descripcion: "APROBADO", observacion: " " },
         { trimestre: "2do Trim.", nota: 79, descripcion: "APROBADO", observacion: " " },
-        { trimestre: "3er Trim.", nota: 70, descripcion: "APROBADO", observacion: "Falta demostración de danza 28-11-24  " }
+        { trimestre: "3er Trim.", nota: 80, descripcion: "APROBADO", observacion: " " }
     ],
     //lista 4
     "DanitsJhane": [
